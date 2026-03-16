@@ -9,7 +9,13 @@
 </div>
 
 ---
+## 项目演示视频
 
+由于视频文件较大，未直接存储在仓库中，可通过以下链接查看或下载完整演示视频：
+
+- [LAW MASTER 项目演示视频（Google Drive）](https://drive.google.com/file/d/1b2GvpBrNbyAaLL5lap70oxBNywuUQ3Jn/view?usp=drive_link)
+
+- 
 ## 项目简介
 
 在网购交易、劳动报酬、租赁履约、服务合同等高频民生场景中，存在大量 **金额不高、事实分散、处理链条长** 的小额纠纷。对于普通当事人而言，这类纠纷往往面临以下现实困难：
